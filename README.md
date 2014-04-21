@@ -1,4 +1,4 @@
 go-learning
 ===========
 
-GO programming language learning effort
+This repository contains Go programming stuff as a learning effort.
